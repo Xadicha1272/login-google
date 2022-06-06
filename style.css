@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.logo_google{
+    width: 900px;
+    height: 650px;
+    border: 2px solid lightgray;
+    border-radius: 7px;
+    display: flex;
+}
+
+p{
+    font-size: 30px;
+    padding-left: 40px;
+}
+
+.inputs{
+    width: 450px;
+    height: 50px;
+    /* border: 2px solid orangered; */
+    display: flex;
+}
+
+input{
+    width: 190px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid lightgray;
+    padding-left: 5px;
+    margin-left: 40px;
+    margin-top: 35px;
+/* }
+     
+     form>div {
+        position: relative;
+     }
+     
+     form input {
+        width: 100%;
+        background: none;
+        position: relative;
+        z-index: 1;
+        outline: 0;
+        border-radius: 4px;
+     }
+     
+     form input:valid {
+        background: white;
+     }
+     
+     form input:focus {
+        border-color: blue;
+        border-radius: 4px;
+     }
+     
+     form input:focus+label {
+        background: white;
+        color: blue;
+        font-size: 10px;
+        z-index: 2;
+        text-transform: uppercase;
+     }
+     
+     form label {
+        transition: 0.3s;
+        position: absolute;
+        color: #999;
+        font-size: 16px;
+        margin-top: 10px;
+        margin-left: 10px;
+        top: 0;
+        left: 0;
+        z-index: 100;
+     }
+     
+     form input {
+        padding: 12px 12px 12px 12px;
+        position: relative;
+        z-index: 1;
+     }
+     
+     
+     form input:focus+label {
+        top: -15px;
+        margin-left: 5px;
+     
+     } */
+}
+
+.gmail_com{
+    width: 500px;
+    height: 50px;
+    /* border: 2px solid red; */
+    padding-top: 15px;
+}
+
+.input_gmail{
+    width: 410px;
+    height: 40px;
+}
+
+.you{
+    width: 500px;
+    height: 80px;
+    /* border: 2px solid orangered; */
+    display: flex;
+}
+
+.ddd{
+    padding-top: 45px;
+    padding-left: 40px;
+    color: grey;
+    font-size: 13px;
+}
+
+.sss{
+    color: blue;
+    font-size: 17px;
+    padding-left: 40px;
+}
+
+.inpuuut{
+    width: 450px;
+    height: 40px;
+    /* border: 2px solid red; */
+    display: flex;
+}
+
+.use8{
+    width: 400px;
+    height: 100px;
+    /* border: 2px solid red; */
+    display: flex;
+}
+
+.sppp{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.ccc{
+    width: 400px;
+    height: 80px;
+     /* border: 2px solid red; */
+}
+
+.btn{
+    width: 500px;
+    height: 70px;
+    /* border: 2px solid orangered; */
+}
+
+.fff{
+    color: blue;
+    padding: 20px 40px;
+}
+
+.hhh{
+    width: 90px;
+    height: 30px;
+    background-color: blue;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    margin-left:150px;
+}
+
+.imggg{
+    width: 400px;
+    height: 450px;
+    /* border: 2px solid red; */
+    display: flex;
+    padding-top: 150px;
+}
